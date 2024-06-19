@@ -1,4 +1,5 @@
 # Snappy - Chat Application 
+Snappy is chat application [here](https://chat-gg3a.vercel.app/)
 
 
 ![login page](./images/snappy_login.png)
